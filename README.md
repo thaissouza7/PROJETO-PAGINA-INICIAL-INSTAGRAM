@@ -1,4 +1,4 @@
 
 ### Página inicial do Instagram
-- O objetivo do projeto foi  replicar a página inicial do Instagram  :dart:
+- :dart: O objetivo do projeto foi  replicar a página inicial do Instagram  
 - :globe_with_meridians: Neste projeto coloquei em prática todo conhecimento de display flex oferecido pelo curso
